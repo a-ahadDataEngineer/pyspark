@@ -1,4 +1,4 @@
-# 🚀 PySpark Core Concepts (Roman Urdu)
+# 🚀 PySpark Core Concepts
 
 <p align="center">
   <img src="https://img.shields.io/badge/PySpark-Core%20Concepts-orange?style=for-the-badge&logo=apachespark">
